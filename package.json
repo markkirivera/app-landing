@@ -1,0 +1,16 @@
+{
+  "name": "AppLanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "desploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://markkirivera.github.io/applanding",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
